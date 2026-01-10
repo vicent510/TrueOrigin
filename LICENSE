@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 vicent510
+Copyright (c) 2025 TrueOrigin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+ADDITIONAL DISCLAIMER:
+
+This software is intended solely for authorized security testing, penetration
+testing engagements, and security research on systems you own or have explicit
+written permission to test.
+
+The authors and contributors of this software:
+- Do NOT condone or support any malicious, illegal, or unauthorized use
+- Accept NO responsibility for misuse or damage caused by this software
+- Provide this tool "as is" for educational and authorized testing purposes only
+
+By using this software, you acknowledge that you are solely responsible for
+ensuring you have proper authorization before testing any system.

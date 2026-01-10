@@ -1,0 +1,7 @@
+# No external dependencies required for core functionality.
+# Python 3.8+ standard library only.
+
+# Optional (uncomment if needed):
+# requests>=2.28.0        # extended IP lookups
+# dnspython>=2.3.0        # DNSSEC support
+# colorama>=0.4.6         # Windows color output
